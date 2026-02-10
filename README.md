@@ -1,4 +1,4 @@
-# Vision Software Development
+# Automation Vision Suite
 
 An **OpenCV + Python–based industrial vision framework** for **robotics and automation systems**.  
 This project explores replacing proprietary vision systems with a **custom, flexible, and cost-effective solution**, integrated directly with **PLCs and industrial robots**.
